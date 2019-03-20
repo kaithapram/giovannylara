@@ -1,0 +1,38 @@
+title: >
+    Your awesome title
+email: >
+    your-email@domain.com
+description: >
+    Cerrajeros Dos Hermanas, especializados en servicios integrales de cerrajería 24 horas y servicios urgentes.  https://reparaciones-sevilla.com/cerrajeros-dos-hermanas/
+
+baseurl: "/"
+url: http://keralahost.in/giovannylara
+google_adsense: Your-adsense-code
+
+markdown: kramdown
+
+name: >
+    Your awesome title
+
+date: 2019-03-20 06:50:05 +0000
+permalink: /:year/:month/:day/:title
+
+logo: false
+sass:
+    load_paths:
+        - _sass
+        - bs
+paginate: 10
+adsid: ca-pub-8582082279264878
+domain_name: http://keralahost.in/giovannylara/
+google_analytics: UA-31XXXXXX-X
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+cover: >
+    
+author_image: >
+    
+
+author: >
+    giovannylara
